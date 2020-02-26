@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(19, 32, 75)!important;
+}
+h1 {
+    color: darkgrey;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.container{
+    background: rgba(18, 22, 218, 0.849);
+    border: 2px solid rgb(255, 1, 1);
+    border-radius: 20px;
+    padding: 20px 10px;
+}
+#task {
+    width: 50%;
+    float: left;
+    margin-right: 5%;
+}
+
+ul {
+    padding: 0 10px !important;
+    margin-top: 20px;
+}
+
+ul li {
+    list-style: none;
+    padding: 15px;
+    margin-bottom: 10px;
+    background: rgba(252, 252, 253, 0.521);
+    border-radius: 10px;
+    border: 2px solid rgba(52, 97, 95, 0.521);
+
+}
+
+
+ul li:hover {
+    background: rgb(49, 135, 138);
+}
+
+
+#qqq {
+    padding: 5px 20px;
+    margin: 10px;
+    color: rgb(240, 240, 240);
+    font-size: 15px;
+    position: relative;
+    left: 550px;
+    background-color: rgba(221, 142, 39, 0.623);
+}
+#qqq:hover {
+    background: rgba(180, 11, 196, 0.596);
+}
